@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms-CIS-27-
-This repository contains some of the simple assignments/projects I was asked to do in my "Data Stuctures and Algorithms" course at Berkeley City College.
+This repository contains files of the simple java programs I was asked to make in my "Data Stuctures and Algorithms" course at Berkeley City College.
